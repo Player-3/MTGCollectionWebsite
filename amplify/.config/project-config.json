@@ -1,18 +1,17 @@
 {
-  "whyContinueWithGen1": "Prefer not to answer",
-  "projectName": "MTGCollectionWebSite",
+  "providers": [
+    "awscloudformation"
+  ],
+  "projectName": "MTGCollectionWebsite",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
     "framework": "angular",
     "config": {
       "SourceDir": "src",
-      "DistributionDir": "dist/amplify-app/browser",
+      "DistributionDir": "dist/amplify-app",
       "BuildCommand": "npm.cmd run-script build",
       "StartCommand": "ng serve"
     }
-  },
-  "providers": [
-    "awscloudformation"
-  ]
+  }
 }
