@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mtgcollectionwebsite-dev-8fa1e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::852121055060:role/amplify-mtgcollectionwebsite-dev-8fa1e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::852121055060:role/amplify-mtgcollectionwebsite-dev-8fa1e-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-mtgcollectionwebsite-dev-8fa1e-deployment",
+      "UnauthRoleName": "amplify-mtgcollectionwebsite-dev-8fa1e-unauthRole",
+      "StackName": "amplify-mtgcollectionwebsite-dev-8fa1e",
+      "StackId": "arn:aws:cloudformation:eu-north-1:852121055060:stack/amplify-mtgcollectionwebsite-dev-8fa1e/d9b31140-0d63-11f0-9f40-06c52fa243a5",
+      "AmplifyAppId": "d15co6vu784ne4"
+    }
+  }
+}
