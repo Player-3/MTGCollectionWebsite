@@ -10,6 +10,17 @@
       "StackName": "amplify-mtgcollectionwebsite-main-e9ab8",
       "StackId": "arn:aws:cloudformation:eu-north-1:852121055060:stack/amplify-mtgcollectionwebsite-main-e9ab8/572604a0-0d66-11f0-a423-06ec17d228a9",
       "AmplifyAppId": "d38aj2okzzftv4"
+    },
+    "categories": {
+      "auth": {
+        "mtgwebsite": {}
+      },
+      "storage": {
+        "mtgcollectionwebsitefc72c963": {
+          "bucketName": "mywebsitemtgbucket",
+          "region": "eu-north-1"
+        }
+      }
     }
   }
 }

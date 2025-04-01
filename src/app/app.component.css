@@ -1,0 +1,10 @@
+img {
+    max-width: 300px;
+    margin: 10px;
+}
+
+h1, h2, p{
+    color: #ffffff;
+    text-align: center;
+}
+
